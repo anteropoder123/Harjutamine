@@ -1,4 +1,4 @@
 GitHub on veebipõhine platvorm, kus saab hoiustada ja hallata oma projekte ning neid jagada.
 Seda kasutavad tarkvaraarendajad, ettevõtted, avatud lähtekoodiga kogukonnad, õpilased, õpetajad, DevOps ja IT-spetsialistid.
-Ma saan GitHub salvestadhttps://github.com/anteropoder123/Harjutamine/tree/k%C3%B5rvalharua enda loodud skripte ja neid jagada.
+Ma saan GitHub salvestada enda loodud skripte ja neid jagada.
 GitHubi asutasid Tom Preston-Werner, Chris Wanstrath ja PJ Hyett 2008. aastal. GitHub tehti avalikuks 2008. aastal.

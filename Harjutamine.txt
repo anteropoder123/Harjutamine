@@ -1,3 +1,2 @@
 GitHub on veebipõhine platvorm, kus saab hoiustada ja hallata oma projekte ning neid jagada.
 Seda kasutavad tarkvaraarendajad, ettevõtted, avatud lähtekoodiga kogukonnad, õpilased, õpetajad, DevOps ja IT-spetsialistid.
-Ma saan githubi salvestada enda loodud skripte ja neid jagada.
